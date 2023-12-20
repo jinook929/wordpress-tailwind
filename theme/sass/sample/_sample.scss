@@ -1,0 +1,15 @@
+// Test, then remove this file and folder when you start your project
+#masthead {
+  padding: 1rem;
+
+	h1 {
+		font-size: 3rem;
+		color: lightgreen;
+    text-align: center;
+	}
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+}
